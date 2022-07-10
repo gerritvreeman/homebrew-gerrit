@@ -1,11 +1,11 @@
 cask "olex2" do
-  version "1.5_6380"
-  sha256 "819d0e06b9b51c91e8fcbc3eaaa0b31a304424bed419479cdae1e487e0f69e2b"
+  version "1.5_6498"
+  sha256 "89ee9f11422551c68caabdd36984012dd9084b08cbfbde2d5e081a8eaf2553d1"
 
-  url "www.olex2.org/olex2-distro/olex2-1.5.app.dmg"
-  name "olex2-1.5"
-  desc " An easy-to-use program containing everything you need to solve, refine and finish small-molecule crystal structures using an intuitive user interface."
-  homepage "https://www.olexsys.org/olex2"
+  url "http://www.count.me.uk/download?publicToken=c70ac7ed-b3d9-44de-8355-8dd8b3783235&url=35"
+  name "olex2"
+  desc " An easy-to-use program containing everything you need to solve, refine and finish small-molecule crystal structures."
+  homepage "https://www.olexsys.org/olex2/"
 
-  app "olex2-1.5.app"
+  app "olex2.app"
 end
