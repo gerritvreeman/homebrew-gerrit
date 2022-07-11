@@ -19,6 +19,10 @@ brew install formula
 
 - CrystalExplorer21 (cyrstalexplorer)
 - MestReNova (mnova)
+- Olex2 (olex2)
+- Solarized colorpicker (colorpicker-solarized)
+- UMN colorpicker (colorpicker-umn)
+
 
 ## Available formulae
 
