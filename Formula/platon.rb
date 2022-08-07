@@ -3,7 +3,7 @@ class Platon < Formula
   desc "Multipurpose crystallographic tool"
   homepage "http://www.platonsoft.nl/platon/"
   url "http://www.platonsoft.nl/xraysoft/unix/platon.tar.gz"
-  sha256 "c3bcd0c1c2e2ffabc8ade47802e1c9928ee44d2e3357ef4caf0a2aed12f5f301"
+  sha256 "c36047095c7fccb3c77b5d43caec63bb766c972ba2501e13a38e6cd2e6964a68"
   version "0"
 
   depends_on "gcc" # for gfortran
