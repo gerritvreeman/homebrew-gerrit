@@ -22,7 +22,7 @@ brew install formula
 - Olex2 (olex2)
 - Solarized colorpicker (colorpicker-solarized)
 - UMN colorpicker (colorpicker-umn)
-
+- Canon PIXMA MX920 series drivers (canon-pixma92x-printer)
 
 ## Available formulae
 
