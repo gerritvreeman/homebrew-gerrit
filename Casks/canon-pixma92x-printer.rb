@@ -1,8 +1,8 @@
 cask "canon-pixma92x-printer" do
-  version "16.40.1.0,21.3"
-  sha256 "6cd502b86c6ffe91c569b78de44023b9ae468334ced3b9920ccfef7635a8e08d"
+  version "16.60.0.0,21.3"
+  sha256 "69de4ee0049bf85821fe2120f66735ac92b94e6117e24fc28c58c15748fa28b9"
 
-  url "https://gdlp01.c-wss.com/gds/0/0100005570/09/mcpd-mac-mx920-#{version.csv.first.dots_to_underscores}-ea#{version.csv.second.dots_to_underscores}.dmg",
+  url "https://gdlp01.c-wss.com/gds/4/0100011534/01/mcpd-mac-mx920-#{version.csv.first.dots_to_underscores}-ea#{version.csv.second.dots_to_underscores}.dmg",
       verified: "gdlp01.c-wss.com/gds/"
   name "Canon Pixma 92X Printer Driver & Utilities"
   desc "Printer driver & utilities for Canon Pixma MX 92X printers"
